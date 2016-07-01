@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  xino
+  xixo
   </body>
 </html>
